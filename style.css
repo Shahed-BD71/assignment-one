@@ -78,11 +78,10 @@ section{
 }
 
 .one-third {
-    width: 40%;
+    width: 30%;
     float: left;
     padding: 2%;
-    margin-left: 3%;
-    box-sizing: border-box;
+    margin: 2%;
 }
 .one-third img{
 width: 100%;
@@ -94,8 +93,10 @@ position: center;
     height: 60%;
     width: 25%;
     background-color: white;
-    font-size: small;
+    font-size: 13px;
     font-weight: 200;
+    border:7px solid black;
+    box-sizing: border-box;
 }
 .leatest-work {
     background-color: whitesmoke;
