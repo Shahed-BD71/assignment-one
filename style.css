@@ -10,6 +10,8 @@ h2 {
 }
 
 
+/* Navigation Manu Start */
+
 ul { 
     margin: 0 10%; 
     padding: 10px 0px 10px 100px; 
@@ -32,6 +34,8 @@ ul li a {
 .nav-bar {
     margin-left: 30%;
 }
+
+/* section One start */
 
 .section-one {
 margin-top: 2%;
@@ -77,6 +81,8 @@ section{
     padding-bottom: 150px;
 }
 
+/* Leatest Working Project Start */
+
 .one-third {
     width: 30%;
     float: left;
@@ -107,6 +113,9 @@ position: center;
 .all-work {
     margin-left: 12%;
     position: relative;
+
+/* backround image Section start */
+
 }
 .backround-image{
     background-image: url(shapes/work-inquiry.png);
@@ -128,8 +137,10 @@ position: center;
     position: relative;
     bottom: 105px;
     left: 450px;
-   
 }
+
+/* footer Start */
+
 .footer {
     text-align: center;
     margin: 0;
